@@ -1,0 +1,15 @@
+C:\VS_Code\C-sharp\ECE_2310\Quiz_1\bin\Debug\net6.0\Quiz_1.exe
+C:\VS_Code\C-sharp\ECE_2310\Quiz_1\bin\Debug\net6.0\Quiz_1.deps.json
+C:\VS_Code\C-sharp\ECE_2310\Quiz_1\bin\Debug\net6.0\Quiz_1.runtimeconfig.json
+C:\VS_Code\C-sharp\ECE_2310\Quiz_1\bin\Debug\net6.0\Quiz_1.dll
+C:\VS_Code\C-sharp\ECE_2310\Quiz_1\bin\Debug\net6.0\Quiz_1.pdb
+C:\VS_Code\C-sharp\ECE_2310\Quiz_1\obj\Debug\net6.0\Quiz_1.csproj.AssemblyReference.cache
+C:\VS_Code\C-sharp\ECE_2310\Quiz_1\obj\Debug\net6.0\Quiz_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS_Code\C-sharp\ECE_2310\Quiz_1\obj\Debug\net6.0\Quiz_1.AssemblyInfoInputs.cache
+C:\VS_Code\C-sharp\ECE_2310\Quiz_1\obj\Debug\net6.0\Quiz_1.AssemblyInfo.cs
+C:\VS_Code\C-sharp\ECE_2310\Quiz_1\obj\Debug\net6.0\Quiz_1.csproj.CoreCompileInputs.cache
+C:\VS_Code\C-sharp\ECE_2310\Quiz_1\obj\Debug\net6.0\Quiz_1.dll
+C:\VS_Code\C-sharp\ECE_2310\Quiz_1\obj\Debug\net6.0\refint\Quiz_1.dll
+C:\VS_Code\C-sharp\ECE_2310\Quiz_1\obj\Debug\net6.0\Quiz_1.pdb
+C:\VS_Code\C-sharp\ECE_2310\Quiz_1\obj\Debug\net6.0\Quiz_1.genruntimeconfig.cache
+C:\VS_Code\C-sharp\ECE_2310\Quiz_1\obj\Debug\net6.0\ref\Quiz_1.dll
