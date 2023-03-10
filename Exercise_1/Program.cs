@@ -7,13 +7,7 @@ namespace Exercise_1
   {
     public static int Main(string[] args)
     {
-      var watch = new System.Diagnostics.Stopwatch();
-
-      watch.Start();
-      Problem_3();
-      watch.Stop();
-
-      Console.WriteLine($"Runtime: {watch.ElapsedMilliseconds} ms");
+      ExtraCredits();
       
       return 0;
     }
@@ -74,6 +68,7 @@ namespace Exercise_1
     // This is problem 3
     public static void Problem_3()
     {
+      Console.WriteLine("\nPROBLEM 3\n");
       Console.WriteLine("Enter your principal amount, in dollars: ");
       decimal amount = Convert.ToDecimal(Console.ReadLine());
 
@@ -103,6 +98,7 @@ namespace Exercise_1
 
     public static void ExtraCredits()
     {
+      Console.WriteLine("\nEXTRA CREDITS\n");
       Console.WriteLine("Here are the values that fits:");
 
       int[] numArr = {0,1};
