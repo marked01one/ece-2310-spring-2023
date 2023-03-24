@@ -11,23 +11,22 @@
       return 0;
     }
 
-    // public static void Q1(int num)
-    // {
-    //   Console.WriteLine(string.Format("\n\nThe number given: {0}", num));
+    public static void Q1(int num)
+    {
+      Console.WriteLine(string.Format("\n\nThe number given: {0}", num));
 
-    //   int sum = 0;
-    //   while (num > 0)
-    //   {
-    //     sum *= 10;
-    //     sum += num % 10;
-    //     num /= 10;
-    //   }
+      int sum = 0;
+      while (num > 0)
+      {
+        sum *= 10;
+        sum += num % 10;
+        num /= 10;
+      }
 
-    //   Console.WriteLine(string.Format("The number reversed: {0}", sum));
-    //   Console.WriteLine(string.Format("The number reversed times 3: {0}", sum * 3));
-    // }
+      Console.WriteLine(string.Format("The number reversed: {0}", sum));
+      Console.WriteLine(string.Format("The number reversed times 3: {0}", sum * 3));
+    }
 
-    // Question #2 redo only!
     public static void Q2_a(double ppl)
     {
       // Helper factorial functions
@@ -55,6 +54,7 @@
         Console.Write(string.Format("{0:N6}\t", 1 - res));
       }
     }
+
 
     public static void Q2_c(int min_ppl, int max_ppl)
     {
