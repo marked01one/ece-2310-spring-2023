@@ -1,0 +1,17 @@
+C:\VS_Code\C-sharp\ECE_2310\Exercise_4_4\Exercise_4_4\bin\Debug\net6.0-windows\Exercise_4_4.exe
+C:\VS_Code\C-sharp\ECE_2310\Exercise_4_4\Exercise_4_4\bin\Debug\net6.0-windows\Exercise_4_4.deps.json
+C:\VS_Code\C-sharp\ECE_2310\Exercise_4_4\Exercise_4_4\bin\Debug\net6.0-windows\Exercise_4_4.runtimeconfig.json
+C:\VS_Code\C-sharp\ECE_2310\Exercise_4_4\Exercise_4_4\bin\Debug\net6.0-windows\Exercise_4_4.dll
+C:\VS_Code\C-sharp\ECE_2310\Exercise_4_4\Exercise_4_4\bin\Debug\net6.0-windows\Exercise_4_4.pdb
+C:\VS_Code\C-sharp\ECE_2310\Exercise_4_4\Exercise_4_4\obj\Debug\net6.0-windows\Exercise_4_4.csproj.AssemblyReference.cache
+C:\VS_Code\C-sharp\ECE_2310\Exercise_4_4\Exercise_4_4\obj\Debug\net6.0-windows\Exercise_4_4.Form1.resources
+C:\VS_Code\C-sharp\ECE_2310\Exercise_4_4\Exercise_4_4\obj\Debug\net6.0-windows\Exercise_4_4.csproj.GenerateResource.cache
+C:\VS_Code\C-sharp\ECE_2310\Exercise_4_4\Exercise_4_4\obj\Debug\net6.0-windows\Exercise_4_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS_Code\C-sharp\ECE_2310\Exercise_4_4\Exercise_4_4\obj\Debug\net6.0-windows\Exercise_4_4.AssemblyInfoInputs.cache
+C:\VS_Code\C-sharp\ECE_2310\Exercise_4_4\Exercise_4_4\obj\Debug\net6.0-windows\Exercise_4_4.AssemblyInfo.cs
+C:\VS_Code\C-sharp\ECE_2310\Exercise_4_4\Exercise_4_4\obj\Debug\net6.0-windows\Exercise_4_4.csproj.CoreCompileInputs.cache
+C:\VS_Code\C-sharp\ECE_2310\Exercise_4_4\Exercise_4_4\obj\Debug\net6.0-windows\Exercise_4_4.dll
+C:\VS_Code\C-sharp\ECE_2310\Exercise_4_4\Exercise_4_4\obj\Debug\net6.0-windows\refint\Exercise_4_4.dll
+C:\VS_Code\C-sharp\ECE_2310\Exercise_4_4\Exercise_4_4\obj\Debug\net6.0-windows\Exercise_4_4.pdb
+C:\VS_Code\C-sharp\ECE_2310\Exercise_4_4\Exercise_4_4\obj\Debug\net6.0-windows\Exercise_4_4.genruntimeconfig.cache
+C:\VS_Code\C-sharp\ECE_2310\Exercise_4_4\Exercise_4_4\obj\Debug\net6.0-windows\ref\Exercise_4_4.dll
