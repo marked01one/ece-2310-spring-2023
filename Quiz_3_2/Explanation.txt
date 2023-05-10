@@ -1,0 +1,12 @@
+a. WHY I PICKED THIS PROGRAM:
+I liked this program since most other example programs are used to create text content 
+only. This program is used to create graphical content, which I feel is pretty unique.
+
+
+b. BRIEF CODE EXPLANATION:
+- When you start the program, a dropdown menu appears.
+- Using this dropdown menu, you can generate various different predefined shapes.
+- The shape is drawn using either the Pen class (if it's not filled) and the 
+SolidBrush class (if it's filled).
+- When a certain dropdown menu option is chosen, a switch statement will determine
+which shape will be drawn based on the option chosen.

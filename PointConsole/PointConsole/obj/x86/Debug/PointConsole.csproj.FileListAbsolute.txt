@@ -1,0 +1,9 @@
+C:\Users\hlin\Documents\C Drive Data\C# Programming\PointConsole\PointConsole\bin\Debug\PointConsole.exe
+C:\Users\hlin\Documents\C Drive Data\C# Programming\PointConsole\PointConsole\bin\Debug\PointConsole.pdb
+C:\Users\hlin\Documents\C Drive Data\C# Programming\PointConsole\PointConsole\obj\x86\Debug\PointConsole.exe
+C:\Users\hlin\Documents\C Drive Data\C# Programming\PointConsole\PointConsole\obj\x86\Debug\PointConsole.pdb
+C:\Users\hlin\Documents\C Drive Data\ECE 256 Fall 2014\Distribution Folder\PointConsole\PointConsole\obj\x86\Debug\PointConsole.exe
+C:\Users\hlin\Documents\C Drive Data\ECE 256 Fall 2014\Distribution Folder\PointConsole\PointConsole\obj\x86\Debug\PointConsole.pdb
+C:\Users\hlin\Documents\C Drive Data\ECE 256 Fall 2014\Distribution Folder\PointConsole\PointConsole\bin\Debug\PointConsole.exe
+C:\Users\hlin\Documents\C Drive Data\ECE 256 Fall 2014\Distribution Folder\PointConsole\PointConsole\bin\Debug\PointConsole.pdb
+C:\Users\hlin\Documents\C Drive Data\ECE 256 Fall 2014\Distribution Folder\PointConsole\PointConsole\obj\x86\Debug\PointConsole.csprojResolveAssemblyReference.cache

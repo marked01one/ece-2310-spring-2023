@@ -1,0 +1,11 @@
+C:\VS_Code\C-sharp\ECE_2310\Quiz_3_1c\UsingTabs\UsingTabs\bin\Debug\UsingTabs.exe.config
+C:\VS_Code\C-sharp\ECE_2310\Quiz_3_1c\UsingTabs\UsingTabs\bin\Debug\UsingTabs.exe
+C:\VS_Code\C-sharp\ECE_2310\Quiz_3_1c\UsingTabs\UsingTabs\bin\Debug\UsingTabs.pdb
+C:\VS_Code\C-sharp\ECE_2310\Quiz_3_1c\UsingTabs\UsingTabs\obj\Debug\UsingTabs.csproj.AssemblyReference.cache
+C:\VS_Code\C-sharp\ECE_2310\Quiz_3_1c\UsingTabs\UsingTabs\obj\Debug\UsingTabs.csproj.SuggestedBindingRedirects.cache
+C:\VS_Code\C-sharp\ECE_2310\Quiz_3_1c\UsingTabs\UsingTabs\obj\Debug\UsingTabs.UsingTabsForm.resources
+C:\VS_Code\C-sharp\ECE_2310\Quiz_3_1c\UsingTabs\UsingTabs\obj\Debug\UsingTabs.Properties.Resources.resources
+C:\VS_Code\C-sharp\ECE_2310\Quiz_3_1c\UsingTabs\UsingTabs\obj\Debug\UsingTabs.csproj.GenerateResource.cache
+C:\VS_Code\C-sharp\ECE_2310\Quiz_3_1c\UsingTabs\UsingTabs\obj\Debug\UsingTabs.csproj.CoreCompileInputs.cache
+C:\VS_Code\C-sharp\ECE_2310\Quiz_3_1c\UsingTabs\UsingTabs\obj\Debug\UsingTabs.exe
+C:\VS_Code\C-sharp\ECE_2310\Quiz_3_1c\UsingTabs\UsingTabs\obj\Debug\UsingTabs.pdb
